@@ -17,14 +17,14 @@ Layout UI/UX RocketSeat.
 
 Você pode visualizar e interagir com a pagina do projeto através 
 <p align="center">
-<a href="https://ivanbs14.github.io/Focus_Timer_3.0_Dark_Mode/">Click aqui </a>
+<a href="https://ivanbs14.github.io/Land_page_BlogGatos/">Click aqui </a>
 </p>
 
 <p align="center">
-  Versão deskotp:
-  <img alt="License" src="./assets/Desktop.png">
-  Versão mobile:
-  <img alt="License" src="./assets/Mobile.png">
+  Versão deskotp:<br>
+  <img alt="License" src="./assets/Desktop.png" width="70%" display="flex" gap="5px" ><br>
+  Versão mobile:<br>
+  <img alt="License" src="./assets/Mobile.png" width="40%" display="flex" gap="5px" >
 
 </p>
 
